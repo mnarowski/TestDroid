@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello MicroDroid!</string>
+    <string name="app_name">MicroDroid</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="loginButton_text">Login</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_friends">Friends</string>
+    <string name="tab_messages">Messages</string>
+    <string name="tab_event">Add</string>
+    <string name="loading_text">Loading...</string>
+    <string name="add_event">Add new event</string>
+    <string name="event_label">Event Text:</string>
+    <string name="event_photo_label">Add image:</string>
+    <string name="publish">Publish new event</string>
+    <string name="google_maps_api_key">AIzaSyBCGyAmuvKpjU6NpOxpnGiozYJ9La48mio</string>
+    <string name="airbop_message">Default airbop</string>
+    <string name="gcm_deleted">Deleted from gcm</string>
+    <string name="senderId">367505662713</string>
+    <string name="first_tab">Home</string>
+    <string name="Home">Home</string>
+    <string name="empty">Empty</string>
+    <string name="content_uri">http://narowski.pl/content.json</string>
+    <string-array name="menu_list">
+        <item>@string/Home</item>
+        <item>@string/empty</item>
+    </string-array>
+</resources>

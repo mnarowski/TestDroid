@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="email_width">250dp</dimen>
+    <dimen name="email_height">50dp</dimen>
+    <dimen name="margin_password">75dp</dimen>
+    <dimen name="loginButton_width">250dp</dimen>
+    <dimen name="loginButton_height">50dp</dimen>
+    <dimen name="loginButton_margin">150dp</dimen>
+    <dimen name="login_padding">4dp</dimen>
+    <dimen name="emailInput_margin">200dp</dimen>
+    <dimen name="loginForm_margin">15dp</dimen>
+    <dimen name="add_event_text_size">20dp</dimen>
+    <dimen name="add_event_text_label">12dp</dimen>
+    <dimen name="add_event_photo_label">12dp</dimen>
+    <dimen name="widgetTextSize">25sp</dimen>
+    <dimen name="gps_text_size">15sp</dimen>
+</resources>

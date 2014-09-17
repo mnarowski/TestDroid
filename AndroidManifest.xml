@@ -27,6 +27,8 @@
     <!-- Keeps the processor from sleeping when a message is received. -->
     <uses-permission android:name="android.permission.WAKE_LOCK" />
 
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
     <uses-feature
             android:glEsVersion="0x00020000"
             android:required="true"/>
@@ -73,7 +75,7 @@
         </receiver>
 
         <service android:name=".GCMIntentService" />
-        <service android:name=".gps.GpsService" android:process=":remote"/>
+        <service android:name=".gps.GpsService"/>
     </application>
 
 </manifest>
